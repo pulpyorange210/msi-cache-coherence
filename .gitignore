@@ -1,0 +1,17 @@
+CLAUDE.md
+CLAUDE_CACHE.md
+
+# Vivado / xsim outputs
+xsim.dir/
+*.jou
+*.log
+*.pb
+*.wdb
+*.vcd
+.Xil/
+webtalk*
+results/
+xsim.covdb/
+clockInfo.txt
+dfx_runtime.txt
+usage_statistics_webtalk.*
